@@ -1,0 +1,20 @@
+{
+  "name": "modular-awesome-books",
+  "version": "1.0.0",
+  "description": "\"# modular-Awesome-books\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Okechukwu-muokwugwo/modular-Awesome-books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Okechukwu-muokwugwo/modular-Awesome-books/issues"
+  },
+  "homepage": "https://github.com/Okechukwu-muokwugwo/modular-Awesome-books#readme"
+}
