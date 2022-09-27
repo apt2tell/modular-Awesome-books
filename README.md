@@ -14,6 +14,8 @@ In this project, I restructured  Awesome books app code. The goal is to make it 
 - HTML, CSS, JavaScript
 - luxon
 
+## Live Demo
+> Click here to view [Live Demo](https://okechukwu-muokwugwo.github.io/modular-Awesome-books/)
 
 ## Getting Started
 Open index.html
