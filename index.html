@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/4166e58f6f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./index.css" class="href">
+    <title>Refactored Awesome Books</title>
+</head>
+<body>
+    <header class="container">
+        <nav class="nav-bar">
+            <h2 class="home-link"><a href="#">Awesome Books</a></h2>
+            <ul class="page-links">
+                <li class="nav-item" id="link"><a href="#book-list-section" id='link-a'>List </a></li>
+                <li class="nav-item" id="add-new"><a href="#add-book-form" id='add-new-a'>Add New </a></li>
+                <li class="nav-item" id="contact"><a href="#contact-section" id='contact-a'>Contact</a></li>
+            </ul>
+        </nav>
+        <div class="date" id="date"></div>
+        
+    </header>
+    <div class="book-list-section" id="book-list-section">
+        <h1 class="title">All Awesome Books</h1> 
+        <div class="books-container" id="books"> 
+        </div>
+    </div>
+    
+    <div class="contact-section" id="contact-section">
+    
+    </div>
+    <form id="add-book-form" method="post" class="add-books">
+        <h2>Add a new book</h2>
+        <input id="book-title" class="title-input" type="text" placeholder="Title" required> <br> <br>
+        <input id="book-author" class="author-input" type="text" placeholder="Author" required> <br> <br>
+        <button type="submit"  class="add-book">Add</button>
+    </form>
+
+    <footer class="footer-section">
+        <p class="copyright">Copyright &copy; Okechukwu 2022 <a href="https://github.com/Okechukwu-muokwugwo"><i class="fa-brands fa-github"></i></a></p>
+    </footer>
+
+    <script type="module" src="./index.js"></script>
+</body>
+</html>
