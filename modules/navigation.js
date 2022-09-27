@@ -37,3 +37,5 @@ const contactView = () => {
   });
 };
 contactView();
+
+export { listView, addNewView, contactView };
