@@ -4,7 +4,7 @@
 
 This is Awesome books app code. This app allows you to add list of books, display  and delete them whenever it's needed. 
 
-
+![](https://github.com/Okechukwu-muokwugwo/modular-Awesome-books/blob/main/awesome-books.png)
 
  ## Learning objectives
 - Use ES6 modules to write modular JavaScript.
