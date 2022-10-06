@@ -1,7 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Awesome Books
-In this project, I restructured  Awesome books app code. The goal is to make it more organized by using modules. I also employed the use of ES6 syntax. 
+
+This is Awesome books app code. This app allows you to add list of books, display  and delete them whenever it's needed. 
+
+
 
  ## Learning objectives
 - Use ES6 modules to write modular JavaScript.
